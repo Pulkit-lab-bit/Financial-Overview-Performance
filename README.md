@@ -32,6 +32,8 @@ CSV (for data import & preprocessing)
 
 https://github.com/Pulkit-lab-bit/Financial-Overview-Performance/blob/main/Financial%20Performance%20Overview.pbix
 
+https://github.com/Pulkit-lab-bit/Financial-Overview-Performance/blob/main/Financial%20Overview%20Performance.png
+
 
 
 
