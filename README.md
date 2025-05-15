@@ -30,4 +30,13 @@ Power Query
 
 CSV (for data import & preprocessing)
 
+https://github.com/Pulkit-lab-bit/Financial-Overview-Performance/blob/main/Financial%20Performance%20Overview.pbix
+
+
+
+
+
+
+
+
 DAX (for calculated columns/measures)
