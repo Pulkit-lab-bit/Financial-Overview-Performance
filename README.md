@@ -39,8 +39,3 @@ https://github.com/Pulkit-lab-bit/Financial-Overview-Performance/blob/main/Finan
 
 
 
-
-
-
-
-DAX (for calculated columns/measures)
