@@ -36,7 +36,8 @@ https://github.com/Pulkit-lab-bit/Financial-Overview-Performance/blob/main/Finan
 
 https://github.com/Pulkit-lab-bit/Financial-Overview-Performance/blob/main/Financial%20Overview%20Performance.png
 
-(https://github.com/user-attachments/assets/7ea980f7-7c01-4571-9476-3971d7a4d4fb)
+Screenshot:
+Show what the dashboard looks like
 
 ![Financial Overview Performance (1)](https://github.com/user-attachments/assets/bd53041c-c580-42f7-a004-fbe8b00cd765)
 
