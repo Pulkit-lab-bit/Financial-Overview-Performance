@@ -23,7 +23,11 @@ KPI Cards: Aggregate financial metrics.
 Filters: Year, Month, Product.
 
 🛠 Tools Used
+
 Power BI
+
 Power Query
+
 CSV (for data import & preprocessing)
+
 DAX (for calculated columns/measures)
